@@ -1,6 +1,5 @@
 function hello() {
-  return "Hello ";
-  return "Hello world desde MZT!";
+  return "Hello world!";
 }
 
 module.exports = hello;
